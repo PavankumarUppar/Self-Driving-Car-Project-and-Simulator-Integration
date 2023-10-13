@@ -51,6 +51,4 @@ Remember that this code assumes the Udacity Self-Driving Car Simulator is runnin
 
 Enjoy testing and fine-tuning your self-driving car model with the simulator! If you have any questions or need further assistance, feel free to reach out.
 
-
-
-
+[Watch the YouTube video demonstration here.](https://youtu.be/yfmpFN8Tz9Q)
